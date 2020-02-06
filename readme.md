@@ -4,13 +4,13 @@
 
 ## Description
 
-This project is an assignment from Objective Technologies class at the AGH University of Science and Technology. It was made to help in managing school chores such as: adding new subjects, adding new teachers and students, creating courses, creating assignments for courses, grading students. It also aims at simplifying managing students groups and their courses.
+This project is an assignment from Object-oriented technologies class at the AGH University of Science and Technology. It was made to help in managing school chores such as: adding new subjects, adding new teachers and students, creating courses, creating assignments for courses, grading students. It also aims at simplifying managing students groups and their courses.
 
 -----
 
 ### Technology used
 
-Backend with it's endpoints is made in spring boot java framework. Database is stored in H2, the Java SQL database which is accessed by Hibernate.
+Backend with it's endpoints is made in Spring Boot Java framework. Database is stored in H2, the Java SQL database which is accessed by Hibernate.
 Frontend is made in Vue.js framework.
 
 -----
