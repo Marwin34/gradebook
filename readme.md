@@ -41,9 +41,14 @@ Sub-folders structure in project.
         ├── router                                      #(vue.js routing)
         ├── store                                       #(vue.js model storage)
         ├── views                                       #(vue.js views)
+├── readme_images                                       #(images used in readme)
 
 ````
 
 -----
 
 #### Example views
+
+##### Login page
+
+![alt text](https://github.com/Marwin34/gradebook/tree/master/readme_images/login_img.png "Login page")
