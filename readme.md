@@ -51,4 +51,4 @@ Sub-folders structure in project.
 
 ##### Login page
 
-![alt text](https://github.com/Marwin34/gradebook/tree/master/readme_images/login_img.png "Login page")
+![login page](https://github.com/Marwin34/gradebook/blob/master/readme_images/login_img.png "Login page")
